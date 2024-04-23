@@ -3,9 +3,7 @@
 
 ##  About this project
 
-This is a repository used as a base to show the operation of Issues, Discussions, Wiki and other GitHub resources in addition to code versioning..
-
-The project inserted into this repository is a pre-existing template and is used as a basis for displaying statistical data about it.
+This is a repository used for project documentation and code versioning.
 
 ### Technologies
 <p display="inline-block">
@@ -24,8 +22,3 @@ The project inserted into this repository is a pre-existing template and is used
 dotnet run
 
 ## References
-[About issues - GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
-
-[About wikis - GitHub Docs](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis)
-
-[About discussions - GitHub Docs](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/about-discussions)
