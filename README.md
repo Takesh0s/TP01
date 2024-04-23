@@ -1,7 +1,5 @@
 <h1 align="center">TP01</h1>
-<p align="center"><i>Repository for project documentation used during the agile methods classes</i></p>
-
-![added-statistics-to-structure](https://raw.githubusercontent.com/balta-io/blog/main/documentacao-com-github/images/added-statistics-to-structure.jpg)
+<p align="center"><i>Repository for project documentation used during the data structure classes</i></p>
 
 ##  About this project
 
@@ -12,7 +10,7 @@ The project inserted into this repository is a pre-existing template and is used
 ### Technologies
 <p display="inline-block">
   <img width="48" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" alt="csharp-logo"/>
-  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="blazor-logo"/>
+  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png"/>
 </p>
                                                                                                   
 ### Development Tools
